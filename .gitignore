@@ -1,0 +1,5 @@
+*.pkl
+/data/full*
+/data/processed*
+/model/full*
+/model/*.pkl
